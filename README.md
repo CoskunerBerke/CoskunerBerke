@@ -1,7 +1,7 @@
 <h1 align="center">Berke Coşkuner</h1>
 
 <p align="center">
-  Computer Engineering student at Ankara Science University · Ankara, Türkiye<br>
+  Founder of <a href="https://rentyazilim.com">Rent Yazılım</a> · Computer Engineering student at Ankara Science University · Ankara, Türkiye<br>
   Web apps · websites for local businesses · automation · Python research tools
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm a second-year Computer Engineering student. What I work on:
+I'm a Computer Engineering student at Ankara Science University (since 2023) and the founder of [Rent Yazılım](https://rentyazilim.com), a web design and digital services agency in Ankara. What I work on:
 
 - **Websites for local businesses:** 20+ sites for cafés, restaurants, clinics, car services and shops in Ankara and other Turkish cities, mostly built with Next.js, React, TypeScript and Tailwind CSS.
 - **Full-stack apps:** Node.js back ends (Express, NestJS) with Prisma, PostgreSQL, MongoDB or SQLite.
@@ -78,7 +78,7 @@ Freelance websites I designed and developed for local businesses. Each repositor
 
 ## 🧪 Other projects
 
-- [**Rent Yazılım website**](https://github.com/CoskunerBerke/locked_in): corporate site for a digital agency in Ankara, built with Astro 5 and React islands, with Vitest/Playwright tests and CI. Live at [rentyazilim.com](https://rentyazilim.com).
+- [**Rent Yazılım website**](https://github.com/CoskunerBerke/locked_in): corporate site of my own agency in Ankara, built with Astro 5 and React islands, with Vitest/Playwright tests and CI. Live at [rentyazilim.com](https://rentyazilim.com).
 - [**Coin-proje-bot2**](https://github.com/CoskunerBerke/Coin-proje-bot2): an earlier crypto signal bot that combined technical indicators and news sentiment, simulated trades, and had a Flask API, a web panel and Telegram alerts. trading2 replaced it.
 
 > The trading projects use simulated money only. Nothing here is financial advice.
@@ -92,7 +92,7 @@ Freelance websites I designed and developed for local businesses. Each repositor
 
 ## Türkçe
 
-**Ankara Bilim Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.** Üzerinde çalıştığım alanlar:
+**Ankara Bilim Üniversitesi Bilgisayar Mühendisliği öğrencisiyim (2023'ten beri) ve Ankara'da bir web tasarım ve dijital hizmetler ajansı olan [Rent Yazılım](https://rentyazilim.com)'ın kurucusuyum.** Üzerinde çalıştığım alanlar:
 
 - **Yerel işletmeler için web siteleri:** Ankara başta olmak üzere farklı şehirlerdeki kafe, restoran, klinik, oto servis ve mağazalar için 20'den fazla site. Çoğunda Next.js, React, TypeScript ve Tailwind CSS kullandım.
 - **Full-stack uygulamalar:** Prisma, PostgreSQL, MongoDB veya SQLite ile Node.js (Express, NestJS) arka uçları.
@@ -123,7 +123,7 @@ Yerel işletmeler için serbest çalışan olarak tasarlayıp geliştirdiğim si
 
 ### Diğer projeler
 
-- [**Rent Yazılım sitesi**](https://github.com/CoskunerBerke/locked_in): Ankara'daki bir dijital ajansın kurumsal sitesi; Astro 5 ve React Islands, Vitest/Playwright testleri ve CI. Yayında: [rentyazilim.com](https://rentyazilim.com).
+- [**Rent Yazılım sitesi**](https://github.com/CoskunerBerke/locked_in): Ankara'daki kendi ajansımın kurumsal sitesi; Astro 5 ve React Islands, Vitest/Playwright testleri ve CI. Yayında: [rentyazilim.com](https://rentyazilim.com).
 - [**Coin-proje-bot2**](https://github.com/CoskunerBerke/Coin-proje-bot2): teknik göstergeleri ve haber duygu analizini birleştiren, simülasyon işlemleri yapan eski kripto sinyal botu (Flask API, web paneli, Telegram bildirimleri). Yerini trading2 aldı.
 
 > Trading projeleri yalnızca simülasyon parasıyla çalışır; hiçbiri yatırım tavsiyesi değildir.
