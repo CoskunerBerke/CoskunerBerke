@@ -17,7 +17,7 @@
 I'm a Computer Engineering student at Ankara Science University (since 2023) and the founder of [Rent Yazılım](https://rentyazilim.com), a web design and digital services agency in Ankara. What I work on:
 
 - **Websites for local businesses:** 20+ sites for cafés, restaurants, clinics, car services and shops in Ankara and other Turkish cities, mostly built with Next.js, React, TypeScript and Tailwind CSS.
-- **Full-stack apps:** Node.js back ends (Express, NestJS) with Prisma, PostgreSQL, MongoDB or SQLite.
+- **Web applications:** Node.js back ends (Express, NestJS) with Prisma, PostgreSQL, MongoDB or SQLite.
 - **Automation:** browser automation with Playwright, video quality checks with FFmpeg, and the YouTube, Instagram and Telegram APIs.
 - **Python research tools:** a paper-trading research bot with a large pytest suite. It uses simulated money only.
 
@@ -95,7 +95,7 @@ Freelance websites I designed and developed for local businesses. Each repositor
 **Ankara Bilim Üniversitesi Bilgisayar Mühendisliği öğrencisiyim (2023'ten beri) ve Ankara'da bir web tasarım ve dijital hizmetler ajansı olan [Rent Yazılım](https://rentyazilim.com)'ın kurucusuyum.** Üzerinde çalıştığım alanlar:
 
 - **Yerel işletmeler için web siteleri:** Ankara başta olmak üzere farklı şehirlerdeki kafe, restoran, klinik, oto servis ve mağazalar için 20'den fazla site. Çoğunda Next.js, React, TypeScript ve Tailwind CSS kullandım.
-- **Full-stack uygulamalar:** Prisma, PostgreSQL, MongoDB veya SQLite ile Node.js (Express, NestJS) arka uçları.
+- **Web uygulamaları:** Prisma, PostgreSQL, MongoDB veya SQLite ile Node.js (Express, NestJS) arka uçları.
 - **Otomasyon:** Playwright ile tarayıcı otomasyonu, FFmpeg ile video kontrolü, YouTube, Instagram ve Telegram API'leri.
 - **Python araştırma araçları:** geniş bir pytest test paketiyle kâğıt üzerinde (simülasyon) çalışan bir trading araştırma botu. Gerçek para kullanmaz.
 
