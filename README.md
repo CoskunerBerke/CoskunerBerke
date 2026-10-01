@@ -35,14 +35,14 @@ Currently working on **trading2** and **Reels AI Factory**.
 
 **Automation & testing** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-**DevOps & hosting** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+**DevOps & hosting** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ## ⭐ Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | [**trading2**](https://github.com/CoskunerBerke/trading2) | Research bot for Binance spot and futures that runs several strategy books side by side on simulated money. It models fees, funding and slippage, labels skipped signals with "what if" outcomes, and tests pre-registered hypotheses. FastAPI dashboard, 3,000+ pytest tests. | Python, pandas, FastAPI, Docker |
-| [**Reels AI Factory**](https://github.com/CoskunerBerke/otomasyon_3) | Weekly pipeline that plans, generates, quality-checks and schedules short videos to YouTube, TikTok and Instagram for two of my own channels. Telegram approvals, about 780 tests. | Python, Playwright, FFmpeg, PostgreSQL, Railway |
+| [**Reels AI Factory**](https://github.com/CoskunerBerke/otomasyon_3) | Weekly pipeline that plans, generates, quality-checks and schedules short videos to YouTube, TikTok and Instagram for two of my own channels. Telegram approvals, 1,000+ tests. | Python, Playwright, FFmpeg, PostgreSQL, Docker |
 | [**NakitGaraj**](https://github.com/CoskunerBerke/NakitGaraj) | Used-car valuation and consignment platform: step-by-step valuation wizard, pricing engine based on comparable listings, admin panel with roles and audit logs. Work in progress. | Next.js, NestJS, Prisma, TypeScript |
 | [**Eksik Web**](https://github.com/CoskunerBerke/maps_proje) | Lead-finder and CRM that uses the Google Places API to find local businesses without a website, tracks calls and notes, exports CSV/XLSX and can generate a demo site. | React, Express, Prisma, SQLite |
 | [**MarketApp**](https://github.com/CoskunerBerke/MarketApp) | Collects weekly supermarket deals (BİM, ŞOK, Migros) into a web app, with an admin panel, an Express/MongoDB API, scheduled scrapers and an early Expo app. Prototype. | React, Vite, Express, MongoDB |
@@ -106,7 +106,7 @@ Freelance websites I designed and developed for local businesses. Each repositor
 | Proje | Ne yapıyor |
 |---|---|
 | [**trading2**](https://github.com/CoskunerBerke/trading2) | Binance spot ve vadeli piyasalarında birden çok strateji defterini yalnızca simülasyon parasıyla yan yana çalıştıran araştırma botu. Komisyon, fonlama ve kaymayı hesaba katar; alınmayan sinyaller için "olsaydı ne olurdu" etiketleri tutar; önceden kaydedilmiş hipotezleri test eder. FastAPI paneli, 3.000'den fazla pytest testi. |
-| [**Reels AI Factory**](https://github.com/CoskunerBerke/otomasyon_3) | Kendi iki kanalım için kısa videoları her hafta planlayan, üreten, kalite kontrolünden geçiren ve YouTube, TikTok ve Instagram'a zamanlayan otomasyon. Telegram onayları, yaklaşık 780 test. |
+| [**Reels AI Factory**](https://github.com/CoskunerBerke/otomasyon_3) | Kendi iki kanalım için kısa videoları her hafta planlayan, üreten, kalite kontrolünden geçiren ve YouTube, TikTok ve Instagram'a zamanlayan otomasyon. Telegram onayları, 1.000'den fazla test. |
 | [**NakitGaraj**](https://github.com/CoskunerBerke/NakitGaraj) | İkinci el araç değerleme ve konsinye platformu: adım adım değerleme sihirbazı, emsal ilanlara dayalı fiyatlama motoru, rol ve işlem kaydı olan yönetim paneli. Geliştirme sürüyor. |
 | [**Eksik Web**](https://github.com/CoskunerBerke/maps_proje) | Google Places API ile web sitesi olmayan yerel işletmeleri bulan, arama ve notları takip eden, CSV/XLSX dışa aktaran ve demo site üretebilen müşteri bulma ve CRM aracı. |
 | [**MarketApp**](https://github.com/CoskunerBerke/MarketApp) | BİM, ŞOK ve Migros'un haftalık indirimlerini tek yerde toplayan web uygulaması; yönetim paneli, Express/MongoDB API, zamanlanmış veri çekiciler ve erken aşama Expo uygulaması. Prototip. |
